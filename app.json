@@ -1,7 +1,9 @@
 {
   "pages":[
     "pages/index/index",
-    "pages/logs/logs"
+    "pages/activity/activity",
+    "pages/attention/attention",
+    "pages/prize/prize",
   ],
   "window":{
     "backgroundTextStyle":"light",
